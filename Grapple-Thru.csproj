@@ -1,0 +1,6 @@
+<Project Sdk="Godot.NET.Sdk/3.2.3">
+  <PropertyGroup>
+    <TargetFramework>net50</TargetFramework>
+    <RootNamespace>GrappleThru</RootNamespace>
+  </PropertyGroup>
+</Project>
