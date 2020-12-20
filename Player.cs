@@ -9,7 +9,7 @@ public class Player : KinematicBody2D
     const int maxFallSpeed = 200;
     const int gravity = 10;
     PackedScene Wall = (PackedScene)GD.Load("res://WallNode.tscn");
-    int score = 0;
+    int score = 0; 
 
     public override void _Ready()
     {
